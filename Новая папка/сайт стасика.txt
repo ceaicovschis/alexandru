@@ -1,0 +1,4 @@
+<html>
+<head> stasik.com</head>
+<body><bgcollor=pink>
+<h1>align="cente">Stasic losara
